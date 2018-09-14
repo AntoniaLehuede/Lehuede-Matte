@@ -3,7 +3,7 @@
 	padding:0;
 }
 
-body, h2{
+body{
 	background:rgba(255,255,255,1);
 	color:rgba(25,25,25,1);
 	font-family: 'Muli', sans-serif;
@@ -38,7 +38,7 @@ h3{
 	text-align:center;
 }
 
-h4, h5, h6{
+h2, h4, h5, h6{
 	font-weight:left;
 	font-weight:600;
 }

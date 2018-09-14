@@ -3,14 +3,14 @@
 	padding:0;
 }
 
-body{
+body, h2{
 	background:rgba(255,255,255,1);
 	color:rgba(25,25,25,1);
 	font-family: 'Muli', sans-serif;
 	font-weight:300;
 }
 
-h1, h2, h3, h4{
+h1, h3, h4{
 	font-family: 'Oswald', sans-serif;
 	font-weight:700;
 }

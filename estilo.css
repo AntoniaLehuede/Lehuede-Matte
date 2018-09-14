@@ -195,12 +195,11 @@ footer p{
 	text-transform:uppercase;
 	letter-spacing:0.1em;
 	font-size:0.9em;
-	color: #66B2B2
+	color: #4E879B
 	}
 
 footer hr{
-	border:2px solid #66B2B2;
-	text-shadow: 1px 1px 0 #999;
+	border:2px solid #4E879B;
 	width:10%;
 	margin:2em auto 0 auto;
 	}
@@ -216,7 +215,6 @@ footer hr{
 		width:48%;
 		margin:1%;
 		background:#F0E5D3;
-		text-shadow: 1px 1px 0 #999;
 		color:#333;
 	}
 

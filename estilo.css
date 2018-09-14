@@ -85,13 +85,13 @@ video{
 	}
 
 .dupla a{
-	color:rgba(201,103,147,0.75);
+	color:rgba(102,177,178,0.75);
 	text-decoration:none;
 	font-weight:700;
 }
 
 .dupla a:hover{
-	color:rgba(204,100,152,1);
+	color:rgba(78,135,155,1);
 	text-decoration:underline;
 }
 
